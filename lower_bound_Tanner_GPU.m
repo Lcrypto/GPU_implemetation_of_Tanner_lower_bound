@@ -23,8 +23,7 @@
 %(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 %SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-% Application generate QC-LDPC parity-check matrix based on RS-codewords
-%
+
 %Tanner R. M. (2001) ‘Minimum distance bounds by graph analysis’, IEEE-IT, Vol. 47,
 %pp. 808-821.
 %To estimate lower bound of code distance and heuristics optimization second_eigen/first_eigen  to choice best code
